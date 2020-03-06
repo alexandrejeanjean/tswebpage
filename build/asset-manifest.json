@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6688e2e1.chunk.css",
+    "main.js": "/static/js/main.f4b04a63.chunk.js",
+    "main.js.map": "/static/js/main.f4b04a63.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.495f84ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.495f84ac.js.map",
+    "static/js/2.b9de1812.chunk.js": "/static/js/2.b9de1812.chunk.js",
+    "static/js/2.b9de1812.chunk.js.map": "/static/js/2.b9de1812.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f49246e4acac6ac80afa7a10b94fa569.js": "/precache-manifest.f49246e4acac6ac80afa7a10b94fa569.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6688e2e1.chunk.css.map": "/static/css/main.6688e2e1.chunk.css.map",
+    "static/js/2.b9de1812.chunk.js.LICENSE": "/static/js/2.b9de1812.chunk.js.LICENSE",
+    "static/media/dipongo.jpg": "/static/media/dipongo.b9bdb9e5.jpg",
+    "static/media/fillgood.jpg": "/static/media/fillgood.0bc490ce.jpg",
+    "static/media/homeassist.jpg": "/static/media/homeassist.b5c68026.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.495f84ac.js",
+    "static/js/2.b9de1812.chunk.js",
+    "static/css/main.6688e2e1.chunk.css",
+    "static/js/main.f4b04a63.chunk.js"
+  ]
+}
